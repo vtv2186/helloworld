@@ -1,2 +1,4 @@
 # helloworld
-Just another repo
+
+Hi Humans!
+Hubot here, I like coffee! 
